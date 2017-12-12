@@ -1,0 +1,18 @@
+{
+    "name": "cometcms/framework",
+    "description": "framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lv",
+            "email": "14191730@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Core\\":"src/Core"
+        }
+    }
+}
